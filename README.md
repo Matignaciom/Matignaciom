@@ -2,9 +2,9 @@
   <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
 </p>
 
-<h1 align="center">¡Hola! Soy Matías Paredes <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center">¡Hola! Soy Matías Paredes <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba7fc3c0.gif" width="28px" alt="hi"></h1>
 
-Soy **Ingeniero de Software** con experiencia en desarrollo web y móvil. Me apasiona crear soluciones escalables y eficientes, aplicando principios de arquitectura limpia, SOLID y buenas prácticas de desarrollo.
+Soy **Ingeniero de Software** especializado en desarrollo web y móvil. Me apasiona crear soluciones escalables, eficientes y mantenibles, aplicando principios de **arquitectura limpia, SOLID y buenas prácticas de desarrollo**.
 
 🌐 Mi sitio web: [matignacio.netlify.app](https://matignacio.netlify.app/)
 
@@ -30,5 +30,9 @@ Soy **Ingeniero de Software** con experiencia en desarrollo web y móvil. Me apa
 
 ### 📊 &nbsp; GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matignaciom&theme=dark&show_icons=true" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matignaciom&theme=dark&show_icons=true&count_private=true" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matignaciom&theme=dark&layout=compact" width="410" /></p>
+
+---
+
+💡 **Tip profesional:** Mantén tus repositorios activos, documentados y con proyectos destacados. Esto proyecta más expertise que cualquier calificación automática.
