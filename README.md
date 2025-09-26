@@ -30,16 +30,9 @@ Soy **Ingeniero de Software** con experiencia en desarrollo web y móvil. Me apa
 
 ### 📊 &nbsp; GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&theme=dark&show_icons=true" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&theme=dark&layout=compact" width="410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matignaciom&theme=dark&show_icons=true" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matignaciom&theme=dark&layout=compact" width="410" /></p>
 
 ---
 
-🤝 &nbsp; Conecta conmigo:  
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tu-linkedin/)  
-[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/tu-usuario)
-
----
-
-Credit: [Matías Paredes](https://github.com/tu-usuario)
+Credit: [Matías Paredes](https://github.com/Matignaciom)
