@@ -32,6 +32,7 @@ Soy **Ingeniero de Software** especializado en desarrollo web y móvil. Me apasi
 
 | Proyecto | Tech Stack | Descripción | Repo / Demo |
 |---------|------------|-------------|-------------|
-| **Ecoteca App** | Flutter, Firebase | Aplicación educativa con imágenes de ecografía POCUS, casos clínicos y tests interactivos. | [GitHub](https://github.com/Matignaciom/ecoteca) |
-| **LexMaster Web** | Next.js, MongoDB | Plataforma educativa con contenido dinámico, tests y gestión de usuarios. | [GitHub](https://github.com/Matignaciom/lexmaster) |
-| **Hotel Activities** | Flutter, Google Sheets API | Sistema de gestión de actividades y reservas para hoteles, con integración a Google Sheets y calendario. | [GitHub](https://github.com/Matignaciom/hotel-activities) |
+| **Ecoteca App** | Flutter, Firebase | Aplicación educativa con imágenes de ecografía POCUS, casos clínicos y tests interactivos. | [Play Store](https://play.google.com/store/apps/details?id=com.pocusapp.ecoteca&hl=es_CL) |
+| **Soporte24** | React.js, Firebase | Página web de soporte para usuarios dentro de un sistema, con gestión de tickets y atención en línea. | [Sitio Web](https://soporte24.app) |
+| **Florida Elite Pools** | HTML, CSS, JS | Proyectos de construcción y diseño de piscinas personalizadas y áreas de deck, spa y cocinas de verano, mostrando transformaciones completas de espacios exteriores. | [Sitio Web](https://floridaelitepool.com/) |
+
