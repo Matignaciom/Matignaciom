@@ -28,11 +28,10 @@ Soy **Ingeniero de Software** especializado en desarrollo web y móvil. Me apasi
 
 ---
 
-### 📊 &nbsp; GitHub Stats
+### 🚀 &nbsp; Proyectos Destacados
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matignaciom&theme=dark&show_icons=true&count_private=true" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matignaciom&theme=dark&layout=compact" width="410" /></p>
-
----
-
-💡 **Tip profesional:** Mantén tus repositorios activos, documentados y con proyectos destacados. Esto proyecta más expertise que cualquier calificación automática.
+| Proyecto | Tech Stack | Descripción | Repo / Demo |
+|---------|------------|-------------|-------------|
+| **Ecoteca App** | Flutter, Firebase | Aplicación educativa con imágenes de ecografía POCUS, casos clínicos y tests interactivos. | [GitHub](https://github.com/Matignaciom/ecoteca) |
+| **LexMaster Web** | Next.js, MongoDB | Plataforma educativa con contenido dinámico, tests y gestión de usuarios. | [GitHub](https://github.com/Matignaciom/lexmaster) |
+| **Hotel Activities** | Flutter, Google Sheets API | Sistema de gestión de actividades y reservas para hoteles, con integración a Google Sheets y calendario. | [GitHub](https://github.com/Matignaciom/hotel-activities) |
