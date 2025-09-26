@@ -30,9 +30,11 @@ Soy **Ingeniero de Software** especializado en desarrollo web y móvil. Me apasi
 
 ### 🚀 &nbsp; Proyectos Destacados
 
-| Proyecto | Tech Stack | Descripción | Repo / Demo |
-|---------|------------|-------------|-------------|
+| Proyecto | Tech Stack | Descripción | URL del Proyecto |
+|---------|------------|-------------|----------------|
 | **Ecoteca App** | Flutter, Firebase | Aplicación educativa con imágenes de ecografía POCUS, casos clínicos y tests interactivos. | [Play Store](https://play.google.com/store/apps/details?id=com.pocusapp.ecoteca&hl=es_CL) |
 | **Soporte24** | React.js, Firebase | Página web de soporte para usuarios dentro de un sistema, con gestión de tickets y atención en línea. | [Sitio Web](https://soporte24.app) |
-| **Florida Elite Pools** | HTML, CSS, JS | Proyectos de construcción y diseño de piscinas personalizadas y áreas de deck, spa y cocinas de verano, mostrando transformaciones completas de espacios exteriores. | [Sitio Web](https://floridaelitepool.com/) |
+| **Florida Elite Pools** | React.js, Supabase | Proyectos de construcción y diseño de piscinas personalizadas y áreas de deck, spa y cocinas de verano, mostrando transformaciones completas de espacios exteriores. | [Sitio Web](https://floridaelitepool.com/) |
+| **Análisis de Documentos WSP** | React.js, IA | Plataforma de análisis de documentos Excel a nivel de negocio utilizando inteligencia artificial para extracción de información y visualización de insights. | [Sitio Web](https://web-analisis-wsp.netlify.app/) |
+
 
