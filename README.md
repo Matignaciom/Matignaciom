@@ -1,16 +1,12 @@
 <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
-<p/>
+  <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+</p>
 
 <h1 align="center">¡Hola! Soy Matías Paredes <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-Soy **Ingeniero de Software** y desarrollador web y móvil apasionado 💻. Me dedico a crear soluciones innovadoras y escalables, aplicando buenas prácticas, principios SOLID, patrones de diseño y arquitectura limpia.
+Soy **Ingeniero de Software** con experiencia en desarrollo web y móvil. Me apasiona crear soluciones escalables y eficientes, aplicando principios de arquitectura limpia, SOLID y buenas prácticas de desarrollo.
 
-- 🌱 Actualmente explorando nuevas técnicas en **Flutter, React y DevOps**.
-- 💡 Me apasiona desarrollar aplicaciones robustas y optimizar la experiencia del usuario.
-- 🤝 Abierto a colaborar en proyectos innovadores y aportar valor con tecnología.
-- 🌍 Idiomas: Inglés intermedio.
-- 🎓 Certificaciones: Coderhouse, LinkedIn Learning.
+🌐 Mi sitio web: [matignacio.netlify.app](https://matignacio.netlify.app/)
 
 ---
 
@@ -42,7 +38,7 @@ Soy **Ingeniero de Software** y desarrollador web y móvil apasionado 💻. Me d
 🤝 &nbsp; Conecta conmigo:  
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tu-linkedin/)  
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/tu-twitter)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/tu-usuario)
 
 ---
 
