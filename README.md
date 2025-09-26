@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+  <img alt="Dispositivos" src="https://matignacio.netlify.app/static/media/devices.b642ccb1bc215842620946c781d3e7e6.svg" height="280" />
 </p>
 
 <h1 align="center">¡Hola! Soy Matías Paredes <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba7fc3c0.gif" width="28px" alt="hi"></h1>
@@ -36,5 +36,3 @@ Soy **Ingeniero de Software** especializado en desarrollo web y móvil. Me apasi
 | **Soporte24** | React.js, Firebase | Página web de soporte para usuarios dentro de un sistema, con gestión de tickets y atención en línea. | [Sitio Web](https://soporte24.app) |
 | **Florida Elite Pools** | React.js, Supabase | Proyectos de construcción y diseño de piscinas personalizadas y áreas de deck, spa y cocinas de verano, mostrando transformaciones completas de espacios exteriores. | [Sitio Web](https://floridaelitepool.com/) |
 | **Análisis de Documentos WSP** | React.js, IA | Plataforma de análisis de documentos Excel a nivel de negocio utilizando inteligencia artificial para extracción de información y visualización de insights. | [Sitio Web](https://web-analisis-wsp.netlify.app/) |
-
-
