@@ -32,7 +32,3 @@ Soy **Ingeniero de Software** con experiencia en desarrollo web y móvil. Me apa
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matignaciom&theme=dark&show_icons=true" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matignaciom&theme=dark&layout=compact" width="410" /></p>
-
----
-
-Credit: [Matías Paredes](https://github.com/Matignaciom)
